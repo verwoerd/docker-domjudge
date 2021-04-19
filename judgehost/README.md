@@ -1,3 +1,5 @@
+# Deprecated, fixed in domjudge 7.3.2
+
 By running build.sh an image for installing extra languages on the default docker image including the chroot. 
 
 By setting the enverioment variables in the Dockerfile you can add Python2, Mono and Kotlin.
